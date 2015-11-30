@@ -1,0 +1,15 @@
+{
+  "name": "atom-blast-code",
+  "main": "./lib/blast-code.js",
+  "version": "0.1.0",
+  "description": "A simple port from codeinthedark",
+  "keywords": [
+  ],
+  "repository": "https://github.com/CaspLock-Studio/atom-blast-code",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
