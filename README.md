@@ -1,5 +1,5 @@
 # atom-blast-code package
 
-A short description of your package.
+A simple port from [https://github.com/chinchang/code-blast-codemirror](https://github.com/chinchang/code-blast-codemirror)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Thanks for the contribution from [lovely lovely experiment by Joel Besada](https://twitter.com/JoelBesada/status/670343885655293952)
